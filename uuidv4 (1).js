@@ -38,8 +38,6 @@
     }, {}], 2: [function (require, module, exports) {
         //     uuid.js
         //
-        //     Copyright (c) 2010-2012 Robert Kieffer
-        //     MIT License - http://opensource.org/licenses/mit-license.php
 
         // Unique ID creation requires a high quality random # generator.  We feature
         // detect to determine the best RNG source, normalizing to a function that
